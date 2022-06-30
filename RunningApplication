@@ -1,1 +1,4 @@
 The application has been designed initially to run on localhost:8080
+
+
+The main executable run file is located in the palindromeservice package. Simply run the file as Java Application. 
